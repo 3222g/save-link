@@ -1,1 +1,1 @@
-YT-Search::https://www.ipscore.io
+ip-lokup::https://www.ipscore.io
