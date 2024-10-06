@@ -1,1 +1,1 @@
-ip-lokup::https://www.ipscore.io
+google::https://www.google.com/
